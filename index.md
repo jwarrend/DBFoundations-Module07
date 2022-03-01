@@ -28,14 +28,11 @@ except Exception as e:
     print("Built-In Python error info: ")
     print(e, e.__doc__, type(e), sep='\n')
 ```
-#### Listing 13
+#### Figure 13. The results of Listing 13
+
+![Results of Listing 13](Picture1.png "Results of Listing 13")
 
 
 
 
-## Topic 1
-
-### Subtopic
-
-## Summary
 
